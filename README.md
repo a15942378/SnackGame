@@ -1,4 +1,11 @@
 # SnackGame
-第一次使用GitHub 練習Commit push remote等等指令
-也順便寫了一個簡單的小遊戲
-當作html的練習
+寫了簡單的東西來當作GitHub練習
+
+練習建立remote連接到Loacl
+
+ADD檔案
+
+加入Commit Message
+
+push等等指令
+
